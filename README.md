@@ -1,6 +1,6 @@
-# Proyecto: Modelo - Vista - Controlador
+# Proyecto: Facturación MVC
 
-Plantilla básica para proyecto de Java con MVC
+Elaborar una aplicación de Facturación en entorno Windows usando la arquitectura MVC. La aplicación debe tener catálogo de Artículos, catálogo de Clientes y la opción de Ventas (Facturación)
 
 ## Diagrama de clases
 [Editor en línea](https://mermaid.live/)
